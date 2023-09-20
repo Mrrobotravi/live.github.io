@@ -505,7 +505,7 @@ a:focus {
           box-shadow: none;
   border-radius: 5px;
   padding: 0 15px;
-  cursor: pointer; !important
+  cursor: pointer; important
 
 }
 
